@@ -11,7 +11,6 @@ const trafficLght = ( event ) => {
 const changecolor = () => {
     const color = 'red';
     turnOn[color]();
-
 }
 
 const turnOn = {
